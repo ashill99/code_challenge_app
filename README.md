@@ -1,24 +1,26 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version:
+2.6.5
 
-Things you may want to cover:
+### Steps to Get Started:
 
-* Ruby version
+- Create a fork of this Repo in your Github Account
 
-* System dependencies
+- Clone the Repo locally
 
-* Configuration
+- Navigate into the newly cloned directory
 
-* Database creation
+- Run `./bin/setup` to setup the database
 
-* Database initialization
+### Challenges
 
-* How to run the test suite
+There are several bugs in this application.  I'd like you to find and fix at
+least three.  Once you've done this, open a Pull Request with your fixes and in
+the description of the PR, tell me how you went about debugging each of the
+issues you ran into.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Bonus Challege
 
-* Deployment instructions
-
-* ...
+Fix the test suite (it's also buggy) and make sure it's covering the bugs you
+found.
