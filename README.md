@@ -1,11 +1,11 @@
 # README
 
-* Ruby version:
+Ruby version:
 2.6.5
 
 ### Steps to Get Started:
 
-- Create a fork of this Repo in your Github Account
+- Create a [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) of this Repo in your Github Account
 
 - Clone the Repo locally
 
